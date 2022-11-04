@@ -1,4 +1,4 @@
-# CSV READER AND WRITER
+# HNG-CSV-i9 task
 
 This is a HNGi9 Project I submitted that reads a csv file, saves out each row as a json file, hashes the json files and creates a modified csv file with the new hash for each row included in the row.
 
